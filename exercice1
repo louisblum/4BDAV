@@ -1,0 +1,2 @@
+3) oui il y a un ordre a réspecter car les clefs étrangères venant d'une table non créée ne seront pas reconnues.
+5) oui il y a un ordre a réspecter car les différents lien entre table pourrai créer des erreur 
